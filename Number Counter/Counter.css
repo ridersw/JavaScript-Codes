@@ -1,0 +1,46 @@
+h1 {
+	font-size: 50px;
+	margin-top: 0;
+	margin-bottom: 20px;
+	font-color: darkred;
+	text-align: center;
+}
+
+h2 {
+	font-size: 50px;
+	margin-top: 0;
+	margin-bottom: 20px;
+	font-color: darkred;
+	text-align: center;
+}
+
+button{
+	border: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	font-weight: bold;
+	width:200px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	margin:auto;
+	display: block;
+}
+
+
+/*# is an id selector, used to target a single specific element with a unique id*/
+#increment-btn, #reset-btn {
+	background: lightblue;
+}
+
+#save-btn {
+	background: green;
+}
+
+#reset-btn {
+	background: darkred;
+}
+
+body {
+  background-color: #FAF9F6;
+}
