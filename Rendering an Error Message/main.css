@@ -1,0 +1,8 @@
+button {
+	background-color: #FAF9F6;
+	border-radius: 8px;
+}
+
+#error {
+	color: red;
+}
